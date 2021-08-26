@@ -1,5 +1,3 @@
-
-
 /*
   Boolean
 
@@ -16,15 +14,18 @@ console.log(false)
 
 //boolean serve para passar apenas dois valores / verdadeiro / falso
 
-  /*  
+ 
   
   var menina = prompt("você é menina ?");
   
-   if (menina == "sim") {
+   if (menina === "sim" || menina ===  "sou uma menina" || menina ===  "sim sou"  ) {
       console.log("VOCÊ É UMA MENINA")
 
    } else {
        console.log("você é menino !")
 
    } 
-                       */
+                  
+
+
+

@@ -1,13 +1,10 @@
-/*
-* undefined
-     *indefinido
 
-* null
-     *nulo
-     *objeto que não possui nada dentro
-     *diferente de indefinido     
 
-*/
+var x = 2; 
+var y = 2;
 
-console.log(undefined)
-console.log(null === undefined)
+if(x === y){
+    console.log('x is equal to y');
+}else{
+    console.log('x is not equal to y');
+}
